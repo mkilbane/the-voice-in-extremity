@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-and-robert-duncan-poetry-reading-naropa-institute-6-9-1976-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Helen Adam and Robert Duncan. Poetry reading Naropa Institute (6/9/1976)" ] },
+    "items": [
+      {
+        "id": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-and-robert-duncan-poetry-reading-naropa-institute-6-9-1976-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 4833.0,
+        "items": [
+          {
+            "id": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-and-robert-duncan-poetry-reading-naropa-institute-6-9-1976-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-and-robert-duncan-poetry-reading-naropa-institute-6-9-1976-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://archives.naropa.edu/digital/collection/p16621coll1/id/1503/",
+                    "duration": 4833.0
+                },
+                "target": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-and-robert-duncan-poetry-reading-naropa-institute-6-9-1976-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
