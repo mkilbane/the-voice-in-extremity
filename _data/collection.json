@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Annotating the Voice in Extremity: Helen Adam and Michael McClure" ] },
+    "summary": { "en": [ "This project annotates for comparison two audio recordings by poets associated with postwar San Francisco poetics: Helen Adam (1909-1993), the Scottish-American champion of the literary ballad and doyenne of the San Francisco Renaissance, and Michael McClure (1932-2020), poet, playwright, and celebrity Beat. The special interest of these poets’ audio record is, it seems to me, their sonic extremity: Adam famously sings or lilts her dark romantic and supernatural ballads to specific tunes, and by most critical accounts her poems appear necessarily impoverished on the page without this extraordinary melodic accompaniment; McClure’s Ghost Tantras (1964), meanwhile, pivot on his fiercely leonine “beast language,” the fullest effect of which is similarly unavailable on the printed page (McClure rather infamously performed these poems for actual lions at the San Francisco Zoo). The theoretical challenge of these comparative annotations will be to “read” these extra-textual elements—the signifying lilt, and the feline roar—and the larger theoretical stakes will be to see what difference the understanding of such elements makes to our material histories of postwar performance cultures. " ] },
+    "items": [
+    ]
+}
