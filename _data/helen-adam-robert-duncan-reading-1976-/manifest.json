@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-robert-duncan-reading-1976-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Helen Adam \u0026 Robert Duncan Reading (1976)" ] },
+    "homepage": [
+      {
+        "id": "http://archives.naropa.edu/digital/collection/p16621coll1/id/8/",
+        "type": "Text",
+        "label": { "en": [ "Helen Adam \u0026 Robert Duncan Reading (1976)" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "http://archives.naropa.edu",
+        "type": "Agent",
+        "label": { "en": [ "Naropa University Digital Archives" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-robert-duncan-reading-1976-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 5271.0,
+        "items": [
+          {
+            "id": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-robert-duncan-reading-1976-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-robert-duncan-reading-1976-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://server16621.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p16621coll1/9.mp3/byte/json",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 5271.0
+                },
+                "target": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-robert-duncan-reading-1976-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
