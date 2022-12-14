@@ -23,6 +23,16 @@
         "id": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-robert-duncan-reading-1976-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5271.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mkilbane.github.io/the-voice-in-extremity/annotations/helen-adam-robert-duncan-reading-1976--canvas-1-.json",
+            "label": {
+              "none": [""]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-robert-duncan-reading-1976-/canvas-1/paintings",

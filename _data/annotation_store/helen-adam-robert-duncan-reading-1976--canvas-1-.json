@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/the-voice-in-extremity/annotations/helen-adam-robert-duncan-reading-1976--canvas-1-.json",
+  "type": "AnnotationPage",
+  "label": "",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "helen-adam-robert-duncan-reading-1976--canvas-1--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Now it's Limbo Gate...\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-robert-duncan-reading-1976-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2278"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "helen-adam-robert-duncan-reading-1976--canvas-1--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Applause",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-robert-duncan-reading-1976-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2467"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "helen-adam-robert-duncan-reading-1976--canvas-1--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "End of poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/the-voice-in-extremity/helen-adam-robert-duncan-reading-1976-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2479"
+        }
+      }
+    }
+  ]
+}
