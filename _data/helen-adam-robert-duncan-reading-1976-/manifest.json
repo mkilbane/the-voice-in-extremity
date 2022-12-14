@@ -5,17 +5,10 @@
     "label": { "en": [ "Helen Adam \u0026 Robert Duncan Reading (1976)" ] },
     "homepage": [
       {
-        "id": "http://archives.naropa.edu/digital/collection/p16621coll1/id/8/",
+        "id": "https://server16621.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p16621coll1/9.mp3/byte/json",
         "type": "Text",
         "label": { "en": [ "Helen Adam \u0026 Robert Duncan Reading (1976)" ] },
         "format": "text/html"
-      }
-    ],
-    "provider": [
-      {
-        "id": "http://archives.naropa.edu",
-        "type": "Agent",
-        "label": { "en": [ "Naropa University Digital Archives" ] }
       }
     ],
     "items": [
